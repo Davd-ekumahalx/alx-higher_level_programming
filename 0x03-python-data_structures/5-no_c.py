@@ -5,4 +5,3 @@ def no_c(my_string):
         second_string = new_string.translate({ord("c"): None})
         return second_string
     return my_string
-
